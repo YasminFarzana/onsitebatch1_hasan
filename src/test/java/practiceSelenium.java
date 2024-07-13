@@ -14,7 +14,7 @@ public class practiceSelenium {
 
     driver.findElement(By.name("firstName")).sendKeys("tanzila");
     driver.findElement(By.name("lastName")).sendKeys("yasmin");
-    driver.findElement(By.name("email")).sendKeys("tanshuha13@gmail.com");
+    driver.findElement(By.name("email")).sendKeys("tanshuha123@gmail.com");
     driver.findElement(By.name("password")).sendKeys("123456");
     driver.findElement(By.name("confirmPassword")).sendKeys("123456");
     driver.findElement(By.name("month")).click();
