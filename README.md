@@ -11,6 +11,16 @@ java, cucumber BDD, Gharkin, CI/CD, github, maven, git etc
 -seleniun-java
 -Cucumber-Testng
 Cucumber-java
+# Reporting
+-jvm report
+-in pom .xtml we added block call build
+-
+
 # Plugin from Intellj
 -Cumcumber for java
 -Gharkin
+
+# How to run the test in CLI
+mvn verify(it will run all the defult browser and env)
+mvn (browser=chrome) -Denv=QA (it will run in Chrome browser
+
