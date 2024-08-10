@@ -21,6 +21,8 @@ Cucumber-java
 -Gharkin
 
 # How to run the test in CLI
-mvn verify(it will run all the defult browser and env)
-mvn (browser=chrome) -Denv=QA (it will run in Chrome browser
+mvn verify (it will run all test with the default browser and env)
+mvn verify -Dbrowser=chrome -Denv=qa (it will run in Chrome browser in QA Env stage.taltektc.com)
+mvn verify -Dbrowser=chrome -Denv=qa -Dcucumber.filter.tags=Test1
+
 

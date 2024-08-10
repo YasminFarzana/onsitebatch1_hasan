@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a21dda0-52a2-4c74-82d3-c65c1a1ca26f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/signup.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/signupsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Hook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/login.feature" afterDir="false" />
@@ -30,6 +28,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2j1xGUMv7JtAUiQ7Gwrjfolbwp6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

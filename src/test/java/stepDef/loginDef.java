@@ -17,8 +17,9 @@ public class loginDef extends config {
 
     @Given("Student at talentTEK Homepage")
     public void studentAtTalentTEKHomepage() {
-        driver = new ChromeDriver();
-        driver.get("https://qa.taltektc.com/");
+      String exp="Login";
+      String act=driver.getTitle();
+      Assert.assertEquals(act,exp);
     }
 
     @And("Student enter their valid email address")
